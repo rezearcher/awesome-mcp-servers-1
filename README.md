@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [com.sigrunner.greyridge/x402-data-security](https://github.com/sigrunner/x402-mcp-server) - Agent-native prediction-market & crypto data, plus MCP security audits. Pay-per-call over x402 (USDC on Base). 21 tools covering prediction markets, crypto prices, DeFi yields, onchain RPC, token security analysis, and MCP server vulnerability scanning.
